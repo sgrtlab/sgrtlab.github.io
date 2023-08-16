@@ -1,0 +1,14 @@
+{
+  "target": "Bone",
+  "radioactivity": 20,
+  "stop_condition": {
+    "type": "time",
+    "value": 900,
+    "etc": {
+      "slide": true,
+      "speed": 15,
+      "__comment__": "15cm / min"
+    }
+  },
+  "exam_name": "Wholebody bone scan"
+}

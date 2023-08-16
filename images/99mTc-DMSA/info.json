@@ -1,3 +1,9 @@
 {
-  "target": "Kidney"
+  "target": "Kidney",
+  "radioactivity": 3,
+  "stop_condition": {
+    "type": "time",
+    "value": 420
+  },
+  "exam_name": "Renal scan"
 }

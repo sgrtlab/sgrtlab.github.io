@@ -1,0 +1,9 @@
+{
+  "target": "Heart",
+  "radioactivity": 30,
+  "stop_condition": {
+    "type": "time",
+    "value": 600
+  },
+  "exam_name": "MUGA(cardiac)"
+}

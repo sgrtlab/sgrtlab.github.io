@@ -1,3 +1,9 @@
 {
-  "target": "Liver"
+  "target": "Liver",
+  "radioactivity": 5,
+  "stop_condition": {
+    "type": "count",
+    "value": 1000000
+  },
+  "exam_name": "Liver scan"
 }

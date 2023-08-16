@@ -1,3 +1,9 @@
 {
-  "target": "Bone"
+  "target": "Bone",
+  "radioactivity": 20,
+  "stop_condition": {
+    "type": "count",
+    "value": 500000
+  },
+  "exam_name": "Pelvic bone scan"
 }
